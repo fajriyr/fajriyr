@@ -1,16 +1,11 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**fajriyr/fajriyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Fajriyah. I'm stand alone here just for fun to have a lot of experiment to development something.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning Web Development, Phyton, C, and latest framework mostly people used
+- 👯 I’m looking to collaborate on open source project to sharing knowledge
+- 🤔 I’m looking for help with people who has experience in web development
 - 📫 How to reach me: fajriyahrini@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
--->
+
